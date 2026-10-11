@@ -1,0 +1,6 @@
+{
+  "name": "EquiSplit - Smart Bill Splitter",
+  "description": "Split bills accurately with exact penny matching, calculate tax & tip, track paid/unpaid status, and share receipts with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
